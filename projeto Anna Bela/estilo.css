@@ -1,0 +1,56 @@
+body{
+	background: #c5c5b2 url(imagem/fundo.png);
+	width: 900px;
+
+}
+a{
+	padding: 5px;
+	color: yellow;
+	text-decoration: none;
+	font-weight: bold;
+	text-shadow: 2px 2px 10px black;
+
+	
+}
+a:hover{
+	
+	text-align: center;
+	color: yellow;
+	border-radius: 10px; 
+
+}
+
+
+
+#menu{
+	height: 50px;
+	background: black;
+	width: 900px;
+	text-align: left center;
+	padding-top: 20px;
+	font-size: 20px;
+	font-family: cursive;
+
+	
+}
+
+#divBella{
+	
+	background: white;
+	padding: 10px;
+}
+
+#h2{
+	color: #828271;
+
+}
+
+
+.dirResevados{
+	text-align: center;
+}
+
+.bordasFotos{
+	border: 6px solid #c3c3ae;
+}
+
